@@ -1,0 +1,24 @@
+p,
+ol,
+h1 {
+  color: red;
+  text-align: center;
+}
+a:hover {
+    color:aqua;
+}
+html {
+    font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+html {
+    background-color: #d991f3;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+/*css comment*/
